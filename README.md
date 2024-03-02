@@ -6,4 +6,4 @@ For the final project of the course, I conceptualized and developed a Power Regu
 
 
 
-[<img src="path/to/image.png">]([https://link-to-your-URL/](https://github.com/Atif-24/ShieldBoard/blob/4df00f650ff7e31aa3ce577dd404ba33b40e2086/Project%20Outputs%20for%20ShieldBoard/Finished%203D%20PCB.png)https://github.com/Atif-24/ShieldBoard/blob/4df00f650ff7e31aa3ce577dd404ba33b40e2086/Project%20Outputs%20for%20ShieldBoard/Finished%203D%20PCB.png)
+[<img src="Project Outputs for ShieldBoard/Finished 3D PCB.png">]([https://link-to-your-URL/](https://github.com/Atif-24/ShieldBoard/blob/4df00f650ff7e31aa3ce577dd404ba33b40e2086/Project%20Outputs%20for%20ShieldBoard/Finished%203D%20PCB.png)https://github.com/Atif-24/ShieldBoard/blob/4df00f650ff7e31aa3ce577dd404ba33b40e2086/Project%20Outputs%20for%20ShieldBoard/Finished%203D%20PCB.png)
