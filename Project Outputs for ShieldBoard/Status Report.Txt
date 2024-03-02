@@ -1,0 +1,10 @@
+Output: AutoCAD dwg/dxf File Schematic
+Type  : AutoCAD SCH
+From  : Project [ShieldBoard.PrjPcb]
+   Generated File[Sheet1.DWG]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:40:39 On 2024-03-02
